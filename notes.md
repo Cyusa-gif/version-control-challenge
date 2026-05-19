@@ -1,3 +1,16 @@
+## Repository Goals
+This project helps beginners understand how version control works using Git and GitHub.
+## Why Version Control is Important
+- Tracks changes in files
+- Helps teams collaborate
+- Allows recovery of previous versions
+
+## Branches
+Branches allow developers to work on new features without affecting the main project.
+
+## Pull Requests
+Pull requests are used to review and merge changes into the main branch.
+
 # Git and GitHub Notes
 
 ## What is Git?
